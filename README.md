@@ -1,4 +1,4 @@
-	#Programa de automação no envio de e-mail.
+#Programa de automação no envio de e-mail.
 
 Olá! Bem vindo ao meu projeto.
 Este programa, realiza de forma automatizado alguns
