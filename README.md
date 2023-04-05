@@ -17,5 +17,6 @@ obter Total Gasto, Quantidade e Preço Medio.
 
 OBS: 
 Caso esteja usando outra IDE diferente, trocar "display" por "print" no código.
+
 Package usados: "pyautogui","time", "pyperclip", "pandas", "numpy", "openpyxl" 
 (o Jupyter, já vem instalado os 3 ultimos pacotes).
